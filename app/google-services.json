@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331973237230",
+    "project_id": "productmanage-778c2",
+    "storage_bucket": "productmanage-778c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331973237230:android:515295937b8b03238cd6ff",
+        "android_client_info": {
+          "package_name": "com.example.productmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331973237230-7spduc6v97er6visom7hafvpavgj6ah4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNUsvTK-L0jI-kyqR7jra32-YHc33ULnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331973237230-7spduc6v97er6visom7hafvpavgj6ah4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
